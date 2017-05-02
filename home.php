@@ -35,7 +35,7 @@
 				<h2>Pricing</h2>
 			</div>
 		</div>
-		<div class="row medium-up-3">
+		<div class="row plan-group medium-up-3">
 			<div class="column plan">
 				<h3>Blogger</h3>
 				<div class="inner">
@@ -59,6 +59,11 @@
 					<div class="explanation"><p>Get updates &amp; support for a year<br> on <strong>unlimited sites</strong>.</p></div>
 					<div class="buy"><a class="button large" href="#">Buy Now</a></div>
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="column medium-8 medium-centered">
+				<p>All plans are subject to the <a href="<?php echo esc_url( home_url( 'terms/' ) ); ?>">terms &amp; conditions</a>.</p>
 			</div>
 		</div>
 	</div>

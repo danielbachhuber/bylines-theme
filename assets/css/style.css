@@ -3662,3 +3662,6 @@ a.thumbnail{
   .home-section-pricing .plan .price{
     font-size:1.5rem;
     font-weight:bold; }
+
+.home-section-pricing .plan-group{
+  margin-bottom:1.5rem; }
