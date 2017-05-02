@@ -1,0 +1,22 @@
+{
+  "name": "bylines-theme",
+  "version": "0.0.0",
+  "main": "Gruntfile.js",
+  "author": "Daniel Bachhuber",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielbachhuber/bylines-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielbachhuber/bylines-theme/issues"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.0.3",
+    "foundation-sites": "^6.3.1",
+    "grunt": "^0.4.5",
+    "grunt-postcss": "^0.6.0",
+    "grunt-sass": "~1.1.0",
+    "postcss-discard-comments": "^2.0.4"
+  }
+}

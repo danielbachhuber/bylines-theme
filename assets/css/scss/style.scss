@@ -1,0 +1,7 @@
+@import 'base/foundation-settings';
+@import 'foundation';
+
+@include foundation-everything;
+
+@import 'components/header';
+@import 'components/footer';
