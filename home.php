@@ -3,7 +3,7 @@
 <div class="site-content">
 
 	<div class="row home-section-intro home-section">
-		<div class="column medium-8 medium-centered">
+		<div class="column medium-8 medium-centered text-center">
 			<h1>Bylines</h1>
 			<div class="tagline">Modern multi-author publishing for WordPress</div>
 		</div>
