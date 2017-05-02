@@ -1,5 +1,17 @@
 <?php
 
+add_filter( 'pre_option_blogname', function(){
+	return 'Bylines';
+});
+
+add_filter( 'pre_option_blogdescription', function(){
+	return 'Modern multi-author publishing for WordPress';
+});
+
+add_action( 'after_setup_theme', function() {
+	add_theme_support( 'title-tag' );
+});
+
 add_action( 'wp_enqueue_scripts', array( 'Bylines_Theme\Assets', 'action_wp_enqueue_scripts' ) );
 
 /**

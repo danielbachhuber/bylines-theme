@@ -12,5 +12,17 @@
 <body <?php body_class(); ?>>
 
 	<header class="site-header">
-		<a class="site-name" href="<?php echo esc_url( home_url( '/' ) ); ?>">Bylines</a>
+		<div class="top-bar">
+			<div class="top-bar-left">
+				<ul class="menu">
+					<li class="menu-text"><a class="site-name" href="<?php echo esc_url( home_url( '/' ) ); ?>">Bylines</a></li>
+				</ul>
+			</div>
+			<div class="top-bar-right">
+				<ul class="menu">
+					<li class="menu-text"><a href="#features">Features</a></li>
+					<li class="menu-text"><a href="#pricing">Pricing</a></li>
+				</ul>
+			</div>
+		</div>
 	</header>
