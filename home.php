@@ -40,23 +40,23 @@
 				<h3>Blogger</h3>
 				<div class="inner">
 					<div class="price">$89</div>
-					<div class="explanation"><p>Get updates &amp; support for a year on <strong>1 site</strong>.</p></div>
-					<div class="buy"><a class="button large" href="#">Buy Now</a></div>
+					<div class="explanation"><p>Get updates &amp; support for a year<br> on <strong>1 site</strong>.</p></div>
+					<div class="buy"><a class="button large" href="https://handbuilt.memberful.com/checkout?plan=20963">Buy Now</a></div>
 				</div>
 			</div>
 			<div class="column plan">
+				<h3>Publisher</h3>
 				<div class="inner">
-					<h3>Publisher</h3>
 					<div class="price">$249</div>
-					<div class="explanation"><p>Get updates &amp; support for a year on <strong>5 sites</strong>.</p></div>
-					<div class="buy"><a class="button large" href="#">Buy Now</a></div>
+					<div class="explanation"><p>Get updates &amp; support for a year<br> on <strong>5 sites</strong>.</p></div>
+					<div class="buy"><a class="button large" href="https://handbuilt.memberful.com/checkout?plan=20964">Buy Now</a></div>
 				</div>
 			</div>
 			<div class="column plan">
 				<h3>Enterprise</h3>
 				<div class="inner">
 					<div class="price">$499</div>
-					<div class="explanation"><p>Get updates &amp; support for a year on <strong>unlimited sites</strong>.</p></div>
+					<div class="explanation"><p>Get updates &amp; support for a year<br> on <strong>unlimited sites</strong>.</p></div>
 					<div class="buy"><a class="button large" href="#">Buy Now</a></div>
 				</div>
 			</div>
