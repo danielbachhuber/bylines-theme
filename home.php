@@ -4,6 +4,7 @@
 
 	<div class="row home-section-intro home-section">
 		<div class="column medium-8 medium-centered">
+			<h1>Bylines</h1>
 			<div class="tagline">Modern multi-author publishing for WordPress</div>
 		</div>
 	</div>
