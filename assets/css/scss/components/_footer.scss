@@ -1,0 +1,20 @@
+.site-footer {
+	margin-top: rem-calc(48);
+	margin-bottom: rem-calc(64);
+	.made-by {
+		color: $dark-gray;
+		text-align: center;
+		img {
+			height: .6rem;
+			vertical-align: middle;
+			margin-top: -0.2rem;
+		}
+		a {
+			color: inherit;
+			&:hover {
+				color: inherit;
+				text-decoration: underline;
+			}
+		}
+	}
+}

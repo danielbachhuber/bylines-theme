@@ -57,12 +57,12 @@
 				<div class="inner">
 					<div class="price">$499</div>
 					<div class="explanation"><p>Get updates &amp; support for a year<br> on <strong>unlimited sites</strong>.</p></div>
-					<div class="buy"><a class="button large" href="#">Buy Now</a></div>
+					<div class="buy"><a class="button large" href="https://handbuilt.memberful.com/checkout?plan=20965">Buy Now</a></div>
 				</div>
 			</div>
 		</div>
 		<div class="row">
-			<div class="column medium-8 medium-centered">
+			<div class="column medium-8 medium-centered text-center">
 				<p>All plans are subject to the <a href="<?php echo esc_url( home_url( 'terms/' ) ); ?>">terms &amp; conditions</a>.</p>
 			</div>
 		</div>

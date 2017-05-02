@@ -3639,6 +3639,22 @@ a.thumbnail{
 .clearfix::after{
   clear:both; }
 
+.site-footer{
+  margin-top:3rem;
+  margin-bottom:4rem; }
+  .site-footer .made-by{
+    color:#8a8a8a;
+    text-align:center; }
+    .site-footer .made-by img{
+      height:.6rem;
+      vertical-align:middle;
+      margin-top:-0.2rem; }
+    .site-footer .made-by a{
+      color:inherit; }
+      .site-footer .made-by a:hover{
+        color:inherit;
+        text-decoration:underline; }
+
 .home-section{
   margin-top:3.75rem;
   margin-bottom:4.5rem; }
