@@ -1,7 +1,38 @@
-.home-section-intro {
+.home-section {
 	margin-top: rem-calc(60);
 	margin-bottom: rem-calc(72);
+	h2 {
+		margin-bottom: rem-calc(24);
+	}
+}
+
+.home-section-intro {
+	margin-top: rem-calc(120);
+	margin-bottom: rem-calc(144);
 	.tagline {
 		font-size: rem-calc(36);
 	}
 }
+
+.home-section-features {
+	.feature {
+		img {
+			margin-bottom: rem-calc(8);
+		}
+	}
+}
+
+.home-section-pricing {
+	.plan {
+		text-align: center;
+		.inner {
+			padding: rem-calc(16);
+			border: 1px solid $light-gray;
+		}
+		.price {
+			font-size: rem-calc(24);
+			font-weight: bold;
+		}
+	}
+}
+

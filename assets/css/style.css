@@ -3639,8 +3639,26 @@ a.thumbnail{
 .clearfix::after{
   clear:both; }
 
-.home-section-intro{
+.home-section{
   margin-top:3.75rem;
   margin-bottom:4.5rem; }
+  .home-section h2{
+    margin-bottom:1.5rem; }
+
+.home-section-intro{
+  margin-top:7.5rem;
+  margin-bottom:9rem; }
   .home-section-intro .tagline{
     font-size:2.25rem; }
+
+.home-section-features .feature img{
+  margin-bottom:0.5rem; }
+
+.home-section-pricing .plan{
+  text-align:center; }
+  .home-section-pricing .plan .inner{
+    padding:1rem;
+    border:1px solid #e6e6e6; }
+  .home-section-pricing .plan .price{
+    font-size:1.5rem;
+    font-weight:bold; }
